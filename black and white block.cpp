@@ -96,4 +96,4 @@ int main()
     GDALClose(poSrcDS);
 	return 0;
 }
-
+//thisisatest
