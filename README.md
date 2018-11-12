@@ -1,5 +1,5 @@
 # sofware-project
-软件工程课程项目 - Software Engineering Project Lesson
+软件工程课程项目 - Software Engineering Lesson Project
 
 Project01：使用VS2017,软件装在D盘,顺利创建项目遇到预编译头错误，需在项目属性页中设置不使用预编译头,对照着流程敲代码,在定义图像的输入输出路径变量时需在 char* 前添加 const 使其变成常量才能进行初始化,代码抄写完成，向项目文件夹中放入GDAL库相关文件,并将tree.jpg也放入项目文件夹中,编译运行，成功得到res.tif,打开发现与tree.jpg一样.
 
